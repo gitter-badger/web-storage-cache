@@ -1,5 +1,7 @@
 # WebStorageCache
 
+[![Join the chat at https://gitter.im/WQTeam/web-storage-cache](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/WQTeam/web-storage-cache?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
   WebStorageCache designed according to [Storage API](http://www.w3.org/TR/webstorage/#storage).
 
 # Usage
